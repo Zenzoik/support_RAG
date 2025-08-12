@@ -2,3 +2,20 @@
 /chroma_db
 /data
 /venv
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.build/
+dist/
+.eggs/
+*.egg-info/
+.venv/
+venv/
+.env.*
